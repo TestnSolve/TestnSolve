@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivektpthi
-- 👀 I’m interested in Python, Pytest, Pytest-BDD(Cucumber), Robot Framework, Jenkins, RestApi Testing, JMeter. Jira, Confluence, Manual Testing, and Test Automation
+- 👀 I’m interested in Python, Pytest, Pytest-BDD(Cucumber), Robot Framework, Jenkins, RestApi Testing, JMeter, Jira, Confluence, Manual Testing, and Test Automation
 - 🌱 I’m currently learning Postman and Newman
 - 💞️ I’m looking to collaborate on Automation Framework Creation
 - 📫 How to reach me : work.vivekt@gmail.com
